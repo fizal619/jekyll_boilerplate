@@ -18,4 +18,4 @@
 - Turn on github pages
 - Profit 🤑💰
 
-![](https://media.tenor.com/9qZhM0uswAYAAAAd/bully-maguire-dance.gif)
+![](https://media.tenor.com/9qZhM0uswAYAAAAd/bully-maguire-dance.gif | width=200)
